@@ -1,3 +1,17 @@
+✡💻️ Desenvolvendo uma API REST de consulta de cidades do Brasil do zero até a produção
+
+ Sobre o Projeto
+
+Projeto API REST de consulta de cidades do Brasil; <br>
+Funcionalidade: Calcular distância entre cidades baseado em latitude e longitude.
+
+
+✡ Tecnogias utilizadas
+
+  <img align="center" alt="Helena-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+✡ <p>❤️ Helena Ferreira ❤️</p>
+
 # Cities API
 
 ## Requirements
