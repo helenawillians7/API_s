@@ -8,9 +8,13 @@ Funcionalidade: Gerenciamento de estoques de cerveja.
 
 ✡ Tecnogias utilizadas
 
-  <img align="center" alt="Helena-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-
-✡ <p>❤️ Helena Ferreira ❤️</p>
+  <img align="left" alt="Helena-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="left" alt="Helena-Spring-Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  
+  <br>
+  <br>
+  
+✡ ❤️ Helena Ferreira ❤️
 
 <h2>Digital Innovation: Expert class - Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja.</h2>
 
