@@ -1,3 +1,17 @@
+✡💻️ Desenvolvendo teste unitários para validar uma API REST de gerenciamento de estoque de cerveja
+
+ Sobre o Projeto
+
+Projeto Desenvolvendo testes unitarios para validar uma API REST; <br>
+Funcionalidade: Gerenciamento de estoques de cerveja.
+
+
+✡ Tecnogias utilizadas
+
+  <img align="center" alt="Helena-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+✡ <p>❤️ Helena Ferreira ❤️</p>
+
 <h2>Digital Innovation: Expert class - Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja.</h2>
 
 Nesta live coding, vamos aprendemos a testar, unitariamente, uma API REST para o gerenciamento de estoques de cerveja. desenvolvemos alguns testes unitários para validar o nosso sistema de gerenciamento de estoques de cerveja, e também apresentamos os principais conceitos e vantagens de criar testes unitários com JUnit e Mockito. Além disso, também mostramos como desenvolver funcionalidades da nossa API através da prática do TDD.
