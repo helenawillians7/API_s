@@ -8,10 +8,12 @@ Funcionalidade: Cadastro e gerenciamento de pessoas de uma organização, até o
 
 ✡ Tecnogias utilizadas
 
-  <img align="center" alt="Helena-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Helena-Spring-Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-
-✡ <p>❤️ Helena Ferreira ❤️</p>
+  <img align="left" alt="Helena-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="left" alt="Helena-Spring-Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <br>
+  <br>
+  
+✡ ❤️ Helena Ferreira ❤️  
 
 <h2>Digital Innovation: Expert class - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
 
