@@ -9,7 +9,7 @@ Funcionalidade: Gerenciamento de estoques de cerveja.
 ✡ Tecnogias utilizadas
 
   <img align="left" alt="Helena-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="left" alt="Helena-Spring-Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="left" alt="Helena-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   
   <br>
   <br>
